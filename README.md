@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmkithinji
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on R and Python
+- 👀 I’m interested in data analytics and quantitative trading
+- 🌱 I’m currently doing quantitative research and trading
+- 💞️ I code using R and Python
 - 📫 How to reach me mmkithinji.k@gmail.com
 
 <!---
